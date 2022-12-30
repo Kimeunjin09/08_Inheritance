@@ -7,11 +7,8 @@ public class InheritanceRun {
 	public static void main(String[] args) {
 		
 		InheritanceService service = new InheritanceService();
-		//service.ex1();
-		//service.ex2();
+		service.ex1();
+		service.ex2();
 		service.ex3();
-		
-		
 	}
-
 }

@@ -39,7 +39,6 @@ public class Employee extends Person {
 		// 기존 부모 코드를 삭제 후 자식이 새롭게 재정의
 		System.out.println("오버라이딩 된 move() 메서드");
 		System.out.println("효율적으로 일하고 야근 안해");
-		
 	}
 	
 	// *** 오버라이딩 성립 조건 ***
@@ -57,6 +56,4 @@ public class Employee extends Person {
 	public String toString() {
 		return super.toString() + "/" + company;
 	}
-
-	
 }

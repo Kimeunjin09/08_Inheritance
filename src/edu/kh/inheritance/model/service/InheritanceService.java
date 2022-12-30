@@ -60,8 +60,6 @@ public class InheritanceService {
 		System.out.println(std.getNationality());
 		System.out.println(std.getGrade());
 		System.out.println(std.getClassroom());
-		
-		
 	}
 	
 	public void ex3() {
@@ -82,7 +80,4 @@ public class InheritanceService {
 		Employee emp = new Employee("김근로", 26, "한국", "00증권");
 		System.out.println(emp);
 	}
-	
-	
-
 }

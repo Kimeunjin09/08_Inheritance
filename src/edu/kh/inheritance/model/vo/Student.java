@@ -26,9 +26,6 @@ public class Student extends Person {
 		
 				// * super() 생성자 미작성시
 				// 컴파일러가 컴파일 단계에서 자동으로 추가해줌
-		
-		
-		
 	} 
 	
 	// 매개변수 생성자 alt+shift+s
@@ -94,6 +91,3 @@ public class Student extends Person {
 		return super.toString() + "/" + grade + "/" + classroom;
 	}
 }
-
-	
-	

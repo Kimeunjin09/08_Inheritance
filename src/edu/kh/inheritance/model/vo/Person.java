@@ -60,4 +60,3 @@ public class Person {
 				//김철수 / 17 / 대한민국
 	}
 }
-
